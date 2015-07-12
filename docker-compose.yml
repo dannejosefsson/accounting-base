@@ -1,0 +1,5 @@
+nodejs:
+  build: accounting-node
+  ports:
+    - 28080:8080
+

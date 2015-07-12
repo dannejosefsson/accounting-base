@@ -1,0 +1,4 @@
+[submodule "accounting-node"]
+	path = accounting-node
+	url = ../accounting-node
+	branch = master
